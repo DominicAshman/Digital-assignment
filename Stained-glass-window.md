@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="The assignment"
+       title="The Royal Window"
        author="Dominic Ashman"
-       banner="https://upload.wikimedia.org/wikipedia/commons/1/16/Canterbury%2C_Canterbury_cathedral-stained_glass_08.JPG" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/5/5e/27-Canterbury-014.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
