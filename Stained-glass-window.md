@@ -23,6 +23,8 @@ Stained-glass windows themselves date back to Byzantium, but the practice truly 
 ### The King
 
 Edward IV reigned in England from 1461 until he was deposed in 1470 after rebellion, before regaining his throne six months later and ruling for a further twelve years before his death in 1483. He is not widely covered in wider history books but has some truly impressive feats connected to him, notably never losing a battle, like Alexander the Great, and being twice exiled from England but returning and gaining the crown by force on both occasions, though the first time only came about because of the death of his father Richard, Duke of York. It is particularly odd that Edward is not covered more in historical works given that he reigned during the Wars of the Roses, a series of civil wars fairly popular with wider audiences, as well as his brother being Richard III. He was also a large patron of Canterbury Cathedral, commissioning repairs and several other pieces alongside the Royal Window, including a stained-glass window of his patron saint, Edward the Confessor (another king of England).
+
+.vcmedia 
 <param ve-image label="Edward IV"
 	   attribution="Tilman2007, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
 	   url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Edward_IV-Cantebury.jpg">
