@@ -18,11 +18,7 @@ Canterbury Cathedral is adorned with a wide array of stained-glass windows. Ther
 
 Stained-glass windows themselves date back to Byzantium, but the practice truly took off in western Europe where it became ubiquitous in churches from the 12th century onwards. Though developments took place, the techniques of constructing stained glass remained the same from the Gothic period until the early 20th century when more modern ways of development were created.[^1] But for a stained-glass window created in the 1480s and restored in the 18th century the techniques would’ve been similar. The way of making them was to create pieces of stained glass that would then be cut, painted and then fired before being assembled into patterns or images held together by a series of lead stripes called Cames.
 
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+.ve-media wc:Edward4.jpg
 
 #### The King
 
