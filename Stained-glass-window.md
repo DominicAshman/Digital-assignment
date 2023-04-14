@@ -42,3 +42,10 @@ Finally, the panes to the right of the queen show the couple’s surviving daugh
 
 Photo for banner image obtained from [Tilman2007](https://commons.wikimedia.org/wiki/User:Tilman2007) using an [Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) License](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 [^1]: Vincent O'Brien, Techniques of Stained Glass: Leaded, Faceted & Laminated Glass (Studio Vista: London, 1977), p.5.
+
+Gillingham, John, *The Wars of the Roses* (London: Phoenix, 2005)
+Goodwin, George, *Fatal Colours* (London: Weidenfeld & Nicolson, 2011)
+Licence, Amy, *Edward IV & Elizabeth Woodville* (Gloucester: Amberley, 2016)
+O'Brien, Vincent, *Techniques of Stained Glass: Leaded, Faceted and Laminated Glass *(London: Studio Vista, 1977)
+Rackham, Bernard, The Stained Glass Windows of Canterbury Cathedral (Canterbury: S.P.C.K, 1957)
+Ross, Charles, Edward IV (New Haven/London: Yale University Press, 1997)
